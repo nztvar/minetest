@@ -1277,7 +1277,7 @@
 #    type: int
 # port = 30000
 
-#    The network interface that the server listens on.
+#    The network interface, such as an IPv4 address, that the server listens on.
 #    type: string
 # bind_address =
 
